@@ -1,0 +1,85 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Hola",
+                "Hola, ¿como estás?",
+                "¿Qué tal?",
+                "¡Hola!",
+                "¡Hola, amigo!",
+                "¡Hola, amiga!",
+                "¡Hola, humano!",
+                "¡Hola! ¿Cómo estás?",
+                "¡Hola! ¿Qué tal?",
+                "Ayuda",
+                "¿Me ayudas?",
+                "¿Puedes ayudarme?",
+                "¿Puedes ayudarme, por favor?",
+                "Tengo una pregunta"
+            ],
+            "responses": [
+                "¡Hola! ¿Cómo puedo ayudarte hoy?",
+                "¡Hola! ¿En qué puedo ayudarte?",
+                "¡Hola! ¿Qué tal? ¿En qué puedo ayudarte?",
+                "¡Hola! Estoy aquí para ayudarte.",
+                "¡Hola! ¿Cómo estás? ¿En qué puedo ayudarte?",
+                "¡Hola! ¿Cómo te va? ¿En qué puedo ayudarte?",
+                "¡Hola! ¿Cómo te encuentras? ¿En qué puedo ayudarte?",
+                "¡Hola! ¿Cómo va todo? ¿En qué puedo ayudarte?",
+                "¡Hola! ¿Cómo va la vida? ¿En qué puedo ayudarte?",
+                "No sé si puedo ayudarte, pero lo intentaré."
+            ]
+        },
+        {
+            "tag": "preguntas_frecuentes",
+            "patterns": [
+                "¿Cómo se llama el material que usan las impresoras 3D para imprimir?",
+                "¿Cuántas sedes tiene la Universidad Nacional de Colombia (UNAL)?",
+                "¿Cuál es el nombre del proyecto que presentó el aula STEAM sede Tumaco?",
+                "¿Con cuántas aulas STEAM cuenta la sede de Tumaco de la Universidad Nacional?",
+                "¿Nombre de la coordinadora del aula STEAM en la SPN tumaco?",
+                "¿Con cuántas gafas de realidad virtual contamos en el aula STEAM?",
+                "¿Qué modelo son las gafas de realidad virtual?",
+                "¿En cuántas sedes tenemos aulas STEAM en la Universidad Nacional de Colombia?",
+                "¿El puntaje del ICFES influye en el ingreso a la Universidad Nacional?",
+                "¿En las siglas de STEAM qué significa la S?"
+            ],
+            "responses": [
+                "El material utilizado en las impresoras 3D es el filamento.",
+                "La Universidad Nacional de Colombia cuenta con 9 sedes.",
+                "El proyecto presentado en el aula STEAM sede Tumaco está relacionado con estatuas en 3D del parque La Tolita.",
+                "La sede de Tumaco de la Universidad Nacional cuenta con 1 aula STEAM.",
+                "la coordinadora del aula STEAM se llama Janeth Pinzon la mas dura de toda la sede.",
+                "En el aula STEAM contamos con 1 o 2 gafas de realidad virtual.",
+                "Las gafas de realidad virtual que usamos son Meta Quest 3.",
+                "En la Universidad Nacional de Colombia hay aulas STEAM en 4 sedes.",
+                "No, el puntaje del ICFES no influye en el ingreso a la Universidad Nacional.",
+                "En las siglas de STEAM, la S significa Science (Ciencia)."
+            ]
+        },
+        {
+            "tag": "despedida",
+            "patterns": [
+                "Adios",
+                "Hasta luego",
+                "Nos vemos",
+                "Chao",
+                "Bye",
+                "Hasta pronto",
+                "Me voy",
+                "Gracias, adios",
+                "Nos vemos luego"
+            ],
+            "responses": [
+                "¡Hasta luego! Espero verte pronto.",
+                "¡Adios! Que tengas un gran día.",
+                "Nos vemos, cuídate mucho.",
+                "¡Chao! ¡Vuelve pronto!",
+                "Fue un placer ayudarte, hasta la próxima.",
+                "¡Bye! ¡Que tengas un buen día!",
+                "Nos vemos luego, ¡no dudes en volver si necesitas ayuda!"
+            ]
+        }
+    ]
+}
